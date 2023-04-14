@@ -294,7 +294,7 @@ export const HowItWorks = () => {
 								1. Salvarea task-urilor create in aplicație:
 							</p>
 							<p className="d-flex-desc">
-								Codul din imaginea din stanga reprezintă o clasă numită
+								Codul din imaginea de sus reprezintă o clasă numită
 								"Database" care are o dependență injectată de o interfață numită
 								"ITask". Clasa conține o listă de obiecte "MonthTasks" și o
 								metodă "save" care are rolul de a serializa această listă de
