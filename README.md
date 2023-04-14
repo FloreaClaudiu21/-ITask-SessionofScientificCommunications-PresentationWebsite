@@ -1,7 +1,7 @@
 # ITask-SessionofScientificCommunications-PresentationWebsite
 
 <div style="display: flex; flex-direction: column;">
-  <img src="https://i.ibb.co/SxTLwKG/7b8937ac76555580828e70b952710a77.png" alt="" />
+  <img src="https://i.ibb.co/SfYL8j2/e23dd61f0beb771a546360c740b5a127.png" alt="" />
   <img src="https://i.ibb.co/56Ky4Dr/c2d7d875913baa280f7e26e5dd85efc7.png" alt="" />
   <img src="https://i.ibb.co/K6RCQgF/61134383abe849110aa0d2dcd37e268f-1.png" alt="" />
   <img src="https://i.ibb.co/fQRGrWB/200f68bd922ff85af12c2a0ad09a9206.png" alt="" />
