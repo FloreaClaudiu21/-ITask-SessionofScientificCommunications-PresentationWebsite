@@ -325,23 +325,23 @@ export const HowItWorks = () => {
 				>
 					<Col lg="12">
 						<p className="d-flex-title">
-							2. Încărcarea datelor salvate în fișier și utilizarea acestora în
-							aplicație:
+							2. Încărcarea datelor salvate în fișier într-o listă și utilizarea
+							acestora în aplicație:
 						</p>
 						<p className="d-flex-desc">
-							Acest cod face parte din clasa anterioară și definește metoda
-							"load()", care se ocupă de încărcarea datelor dintr-un fișier JSON
-							("database.json"). În funcție de conținutul fișierului JSON,
-							metoda încarcă lista de sarcini (tasks) sau creează o nouă listă
-							de sarcini, pentru fiecare lună a anului, cu ajutorul metodei
-							"GetMonthDays" din clasa "App". În cazul în care fișierul JSON
-							există și are cel puțin o sarcină salvată, metoda "load()" va
-							itera prin toate sarcinile și va elimina orice sarcină care a
-							expirat, adică a trecut de ziua și ora setată. Dacă fișierul JSON
-							este gol, metoda va crea o listă de sarcini pentru fiecare lună a
-							anului, utilizând metoda "GetMonthDays" din clasa "App" pentru a
-							obține numărul de zile pentru fiecare lună.În esență, metoda
-							"load()" încarcă și prelucrează datele din fișierul
+							Codul din imaginea de jos face parte din clasa anterioară și
+							definește metoda "load()", care se ocupă de încărcarea datelor
+							dintr-un fișier JSON ("database.json"). În funcție de conținutul
+							fișierului JSON, metoda încarcă lista de sarcini (tasks) sau
+							creează o nouă listă de sarcini, pentru fiecare lună a anului, cu
+							ajutorul metodei "GetMonthDays" din clasa "App". În cazul în care
+							fișierul JSON există și are cel puțin o sarcină salvată, metoda
+							"load()" va itera prin toate sarcinile și va elimina orice sarcină
+							care a expirat, adică a trecut de ziua și ora setată. Dacă
+							fișierul JSON este gol, metoda va crea o listă de sarcini pentru
+							fiecare lună a anului, utilizând metoda "GetMonthDays" din clasa
+							"App" pentru a obține numărul de zile pentru fiecare lună.În
+							esență, metoda "load()" încarcă și prelucrează datele din fișierul
 							"database.json", astfel încât să le poată folosi ulterior pentru
 							afișarea și gestionarea sarcinilor din calendar. În primul rând,
 							se încearcă citirea conținutului fișierului JSON utilizând metoda
