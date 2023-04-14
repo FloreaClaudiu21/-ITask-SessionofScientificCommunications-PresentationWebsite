@@ -9,7 +9,7 @@
   <img src="https://i.ibb.co/8dqfFmL/f603aa85693decc846364890f06445ce.png" alt="" />
   <img src="https://i.ibb.co/fMgQdRz/bb24f6715569d582301520ecb5e72bd8.png" alt="" />
 </div>
-<p style="text-indent: 1rem">
+<p style="text-indent: 10px;">
 ITask-SessionofScientificCommunications-PresentationWebsite is a web application that presents the C# project named ITask in a user-friendly way. The website has been built using ReactJS and React Bootstrap with routing implemented using React Router.<br />
 The website provides a comprehensive overview of the ITask project, starting with an introduction to the team responsible for its development. The team section provides a brief description of each member and their roles in the project.<br />
 The website also includes a "How to Use" section that explains how to use the ITask application step-by-step, making it easy for users to understand the features and functionality of the application.<br />
