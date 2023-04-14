@@ -18,4 +18,4 @@ In the "Conclusion" section, the website provides a summary of the key takeaways
 Finally, the website includes a "Contact Us" page where users can leave feedback and get in touch with the development team. This page provides a form for users to fill out with their contact details and feedback, ensuring that their suggestions and comments are heard.
 Overall, ITask-SessionofScientificCommunications-PresentationWebsite is an informative and user-friendly web application that effectively communicates the features and benefits of the ITask project to users.<br /><br />
 </p>
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
