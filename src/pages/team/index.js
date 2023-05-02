@@ -21,7 +21,7 @@ export const Team = () => {
 			name: "Friguraș Stefan Răzvan",
 			link: "https://www.instagram.com/stefan.raz/",
 			profile:
-				"https://i.ibb.co/GnGBGbt/287505280-412163667457879-895005614832188873-n.jpg",
+				"https://i.ibb.co/p0Y9KMb/Whats-App-Image-2023-05-02-at-20-05-55.jpg",
 		},
 	];
 	return (
